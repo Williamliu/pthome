@@ -1,5 +1,6 @@
 <?PHP
 phpinfo();
+exit();
 ?>
 
 
